@@ -1,3 +1,3 @@
 # DAND
 Data Analyst Nanodegree – Misk Udacity Connect Program
-P2 (Investigate a Dataset)
+P3 (Investigate a Dataset)
